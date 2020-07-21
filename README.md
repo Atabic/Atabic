@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/Atabic/Atabic/blob/master/banner.jpg)
 -Im Atabic Umer, **Nodejs Developer**.  
 -Im currently pursuing my degree from **Punjab University College of Information Technology Lahore**
 
