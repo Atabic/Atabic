@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![](https://github.com/Atabic/Atabic/blob/master/banner.jpg)   
--Im Atabic Umer, **Nodejs Developer**.  
--Im currently pursuing my degree from **Punjab University College of Information Technology Lahore**
+-Im Atabic Umer, *FullStack JavaScript Engineer**.  
+
 
 ## What I'm currently doing
 
--Im working as a Nodejs Developer at **Ideaonic**  
--Learning **Reactjs** So I can become a Fullstack Developer
+-Im working as a FullStack JavaScript Developer at **Vteams**  
+-Im currently pursuing my master degree in Data Science from **UMT Lahore**
 
 
 ## How to reach me
