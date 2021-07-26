@@ -1,6 +1,6 @@
 ### Hi there 👋
-![](https://github.com/Atabic/Atabic/blob/master/banner.jpg)   
--Im Atabic Umer, *FullStack JavaScript Engineer**.  
+<!-- ![](https://github.com/Atabic/Atabic/blob/master/banner.jpg)    -->
+-Im Atabic Umer, **A passionate software engineer who love to make new design, improve UX and build better schemas**.  
 
 
 ## What I'm currently doing
